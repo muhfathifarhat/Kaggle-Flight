@@ -21,7 +21,7 @@ Keterlambatan penerbangan dapat disebabkan oleh berbagai faktor, mulai dari mask
 
 - **Sumber:** *Kaggle*
 - **Isi data:** year, month, date, carrier, carrier_name, airport, city, state, airport_name, arr_delay, carrier_delay, weather_delay, nas_delay, security_delay, late_aircraft_delay
-- **Periode data:** 2017 – 2022
+- **Periode data:** 2017 - 2022
 - **Jumlah baris:** 100.000+
 
 ---
